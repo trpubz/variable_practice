@@ -1,18 +1,18 @@
-s1 = "hello"
-s2 = "world"
+string1 = "hello"
+string2 = "world"
 
-i1 = 03
-i2 = 16
+favorite_int = 03
+second_favorite_int = 16
 
-f1 = 0.3
-f2 = 1.6
+favorite_float = 0.3
+second_favorite_float = 1.6
 
-b1 = true
-b2 = false
+bool_ruby_is_fun = true
+bool_fe_is_fun = false
 
-s1 = "Que paso"
-s2 = "TP"
+string1 = "Que paso"
+string2 = "TP"
 
-puts s1 + " " + s2
-puts i1 + i2
-puts f1 + f2
+puts string1 + " " + string2
+puts favorite_int + second_favorite_int
+puts favorite_float + second_favorite_float
